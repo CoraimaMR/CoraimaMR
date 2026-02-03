@@ -21,5 +21,18 @@ NetBeans - MySQL - VSCode - Godot Engine
 
 <h3 align="left">OTROS PERFILES:</h3>
 <p align="left">
-<a href="https://instagram.com/coraima_mera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coraima_mera" height="30" width="40" /></a>
+  <a href="https://instagram.com/coraima_mera" target="_blank">
+    <img align="center"
+         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="Instagram coraima_mera"
+         height="30"
+         width="40" />
+  </a>
+
+  <a href="https://coraimamr.itch.io" target="_blank">
+    <img align="center"
+         src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"
+         alt="coraimamr itch.io"
+         height="30" />
+  </a>
 </p>
