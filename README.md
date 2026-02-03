@@ -1,38 +1,24 @@
-
-<h1 align="center">¡¡¡HOLAAAA MUNDO!!! 
-<h2 align="center">Soy Coraima Mera Rodriguez</h2>
-<h3 align="center">Apasiona por la informática desde Cádiz (Andalucía)</h3>
-
+<!-- BOTON VISITAS AL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CoraimaMR&label=Visitas&color=ff66d6&style=flat" alt="CoraimaMR" /> </p>
 
-- 📫 Me puedes contactar por aquí **coraimamr1503@gmail.com**
+<!-- TÍTULOS -->
+<h1 align="center">¡¡¡HOLAAAA MUNDO!!! 
+<h2 align="center">✨ Soy Coraima Mera Rodriguez ✨</h2>
 
-- 📫 O tambien por aquí **cmerrod1503@g.educaand.es**
-
-- 📄 Mi curriculum: [enlace]([enlace](https://docs.google.com/document/d/1-wEgvMScp18awBt8u7WidwHsp2TOtr3f_9RoX1oMKfc/edit?usp=sharing))
-
-- ⚡ Otras de mis características: **Entretenida y amistosa**
-
-<h3 align="left">Lenguajes aprendidos:</h3>
-JavaScript - SQL - HTML/CSS - GDScript
-
-<h3 align="left">Aplicaciones usadas:</h3>
-NetBeans - MySQL - VSCode - Godot Engine
-
-<h3 align="left">OTROS PERFILES:</h3>
+<!-- PERFILES -->
 <p align="left">
-  <a href="https://instagram.com/coraima_mera" target="_blank">
-    <img align="center"
-         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-         alt="Instagram coraima_mera"
-         height="30"
-         width="40" />
-  </a>
-
-  <a href="https://coraimamr.itch.io" target="_blank">
-    <img align="center"
-         src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"
-         alt="coraimamr itch.io"
-         height="30" />
-  </a>
+<a href="https://instagram.com/coraima_mera" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""/></a>
+<a href="https://coraimamr.itch.io" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt=""/></a>
+<a href="" target="blank"><img align="center" src="" alt=""/></a>
 </p>
+
+<!-- OTROS DATOS DE MI -->
+<h2>SOBRE MÍ</h2>
+<p>Soy una apasiona por la informática desde Cádiz (Andalucía)</p>
+
+- 🎓 (ACTUALEMTE) Desarrolladora de Aplicaciones Multiplataformas
+- 📄 [Mi curriculum](https://docs.google.com/document/d/1-wEgvMScp18awBt8u7WidwHsp2TOtr3f_9RoX1oMKfc/edit?usp=sharing)
+
+<!-- TECNOLOGíAS APRENDIDAS -->
+<h3 align="left">💫 TECNOLOGíAS APRENDIDAS 💫</h3>
+<p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,java,html,css,mysql,github,git,vscode,godot" /></a></p>
