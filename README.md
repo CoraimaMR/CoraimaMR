@@ -14,10 +14,10 @@
 - ⚡ Otras de mis características: **Entretenida y amistosa**
 
 <h3 align="left">Lenguajes aprendidos:</h3>
-- JavaScript - SQL - HTML/CSS - GDScript
+JavaScript - SQL - HTML/CSS - GDScript
 
 <h3 align="left">Aplicaciones usadas:</h3>
-- NetBeans - MySQL - VSCode - Godot Engine
+NetBeans - MySQL - VSCode - Godot Engine
 
 <h3 align="left">OTROS PERFILES:</h3>
 <p align="left">
