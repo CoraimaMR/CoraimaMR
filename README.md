@@ -14,17 +14,12 @@
 - ⚡ Otras de mis características: **Entretenida y amistosa**
 
 <h3 align="left">Lenguajes aprendidos:</h3>
-- JavaScript
-- SQL
-- HTML/CSS
+- JavaScript - SQL - HTML/CSS - GDScript
 
 <h3 align="left">Aplicaciones usadas:</h3>
-- NetBeans
-- MySQL
-- VSCode
-- Godot Engine
+- NetBeans - MySQL - VSCode - Godot Engine
 
-<h3 align="left">Otros perfiles:</h3>
+<h3 align="left">OTROS PERFILES:</h3>
 <p align="left">
 <a href="https://instagram.com/coraima_mera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coraima_mera" height="30" width="40" /></a>
 </p>
