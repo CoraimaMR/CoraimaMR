@@ -19,6 +19,14 @@
 - 🎓 (ACTUALEMTE) Desarrolladora de Aplicaciones Multiplataformas
 - 📄 [Mi curriculum](https://docs.google.com/document/d/1-wEgvMScp18awBt8u7WidwHsp2TOtr3f_9RoX1oMKfc/edit?usp=sharing)
 
+<!-- DATOS DE CONTACTOS -->
+<h2>CONTÁCTAME</h2>
+<p></p>
+
+- ✉️ Correo propio: [coraimamr@gmail.com](mailto:coraimamr@gmail.com)
+- 📧 Correo del centro: [cmerrod1503@g.educaand.es](mailto:cmerrod1503@g.educaand.es)
+- 🔵 Discord: @CoraimaMR
+
 <!-- TECNOLOGíAS APRENDIDAS -->
 <h3 align="left">💫 TECNOLOGíAS APRENDIDAS 💫</h3>
 <p align="left"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,java,html,css,mysql,github,git,vscode,godot" /></a></p>
