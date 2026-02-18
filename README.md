@@ -14,14 +14,13 @@
 
 <!-- OTROS DATOS DE MI -->
 <h2>SOBRE MÍ</h2>
-<p>Soy una apasiona por la informática desde Cádiz (Andalucía)</p>
 
+- 📍 Vejer de la Frontera (Cádiz)
 - 🎓 (ACTUALEMTE) Desarrolladora de Aplicaciones Multiplataformas
 - 📄 [Mi curriculum](https://docs.google.com/document/d/1-wEgvMScp18awBt8u7WidwHsp2TOtr3f_9RoX1oMKfc/edit?usp=sharing)
 
 <!-- DATOS DE CONTACTOS -->
 <h2>CONTÁCTAME</h2>
-<p></p>
 
 - ✉️ Correo propio: [coraimamr@gmail.com](mailto:coraimamr@gmail.com)
 - 📧 Correo del centro: [cmerrod1503@g.educaand.es](mailto:cmerrod1503@g.educaand.es)
