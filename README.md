@@ -6,6 +6,7 @@
 <h2 align="center">✨ Soy Coraima Mera Rodriguez ✨</h2>
 
 <!-- PERFILES -->
+<!-- https://dev.to/envoy1084/150-badges-for-github-pnk -->
 <p align="left">
 <a href="https://instagram.com/coraima_mera" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""/></a>
 <a href="https://coraimamr.itch.io" target="blank"><img align="center" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt=""/></a>
